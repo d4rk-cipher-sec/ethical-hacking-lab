@@ -26,4 +26,4 @@ Nmap · Metasploit Framework · Burp Suite · Wireshark · Python
 | Week 4 | Wireshark + Python Security Tool | ⏳ Upcoming |
 
 ## 📁 Write-ups
-*Coming soon — first write-up after Week 1 completion*
+- [Week 1 — Nmap Reconnaissance](./week1-nmap-recon.md)
